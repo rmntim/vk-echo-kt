@@ -2,4 +2,12 @@ spring:
   application:
     name: justai
   jackson:
-      property-naming-strategy: SNAKE_CASE
+    property-naming-strategy: SNAKE_CASE
+
+vk:
+  api:
+    token:
+      'vk1.a.ZNkf2poRwlUKnyjQ54jLTx0yKP_P1e7-Yce_ttr8k-pA5aWmE1HsIMBlqUYBLkh7wBHtvSYUFiTsL7TTzvCkN7GSOr8rzf4z3Pl6ZAImoAbElqKiKJPXhONp0tiuj9iHU9KjSXqiHhf3SAlS0oruRK6sb11lSCteFelbMMqJ285_d3ZKTdFGgw6eiCV7pQa9THmJAZpAeWfeikViaWsbOw'
+    version: '5.1999'
+    confirmationToken: bd82a4ba
+    confirmationGroupId: 228511457
