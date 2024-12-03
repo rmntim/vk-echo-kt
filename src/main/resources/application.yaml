@@ -1,0 +1,2 @@
+spring.application.name=justai
+spring.jackson.property-naming-strategy=SNAKE_CASE
